@@ -5,4 +5,4 @@
 # 3. Return the decreased value
 # Example: if a=5, return 4
 def decrease_by_one(a):
-    return a - 1
+    return a-1
